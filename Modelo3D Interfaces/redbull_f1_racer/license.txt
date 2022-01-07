@@ -1,0 +1,11 @@
+Model Information:
+* title:	Redbull F1 racer
+* source:	https://sketchfab.com/3d-models/redbull-f1-racer-082a871751024e0c9e52fa65a9c7b4f3
+* author:	DatJones (https://sketchfab.com/s.jailen.jones)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Redbull F1 racer" (https://sketchfab.com/3d-models/redbull-f1-racer-082a871751024e0c9e52fa65a9c7b4f3) by DatJones (https://sketchfab.com/s.jailen.jones) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
